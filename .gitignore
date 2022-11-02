@@ -1,0 +1,10 @@
+__pycache__
+data/human/images_combined/*
+data/human/images_fpn/*
+data/human/images_lpn*/*
+data/power_supply/images_combined/*
+data/power_supply/images_fpn/*
+data/power_supply/images_lpn*/*
+data/building/images_fpn/*
+extract.py
+noise_combined.npz.npy
