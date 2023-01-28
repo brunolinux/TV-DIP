@@ -8,3 +8,4 @@ data/power_supply/images_lpn*/*
 data/building/images_fpn/*
 extract.py
 noise_combined.npz.npy
+figure.png
